@@ -1,0 +1,18 @@
+# 敏感資訊防護（包含實際資料庫密碼）
+db.php
+
+# Windows 系統與捷徑檔
+*.lnk
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# 無關作業與測試檔案
+cal-*.php
+test.php
+
+# 編輯器與 IDE 設定檔
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
